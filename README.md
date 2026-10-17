@@ -12,10 +12,10 @@ An Amazon-inspired e-commerce homepage built using HTML and CSS.
 ## Screenshots
 
 ### Homepage
-![Amazon Clone Screenshot 1](screenshot1.png)
+![Amazon Clone Screenshot 1](screenshot1.PNG)
 
 ### Homepage Preview
-![Amazon Clone Screenshot 2](screenshot2.png)
+![Amazon Clone Screenshot 2](screenshot2.PNG)
 
 ## Tech Stack
 - HTML
